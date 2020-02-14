@@ -1,0 +1,80 @@
+body {
+	background-image: url("https://res.cloudinary.com/cloudnine/image/upload/v1485580364/b13b0320aae5d4b2e6af742ea40bed21_b0tcup.jpg");
+}
+
+.image {
+	margin-right: 0.5rem;
+}
+
+.box {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	border: none;
+	border-radius: 0px;
+}
+
+.container {
+	background-color: #8a71cb;
+	padding: 1rem;
+}
+
+.streamer-title {
+	font-size: 2rem;
+	font-weight: normal;
+	font-family: Abel;
+}
+
+p {
+	font-family: Roboto;
+	font-size: 1rem;
+}
+
+.top-title {
+	text-align: center;
+	margin-top: 0rem;
+}
+
+.top-title > h1 {
+	font-size: 4rem;
+	font-family: "Unica One", sans-serif;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+a {
+	color: #5c2e7a;
+}
+
+a:link {
+	color: #5c2e7a;
+}
+
+a:visited {
+	color: #5c2e7a;
+}
+
+a:hover {
+	color: #c06ff7;
+	border-bottom: 1px solid #c06ff7;
+}
+
+.acctOnline {
+	background-color: #cbfee0;
+	-webkit-box-shadow: 4px 4px 0px 0px rgba(149, 202, 171, 0.8);
+	-moz-box-shadow: 4px 4px 0px 0px rgba(149, 202, 171, 0.8);
+	box-shadow: 4px 4px 0px 0px rgba(149, 202, 171, 0.8);
+}
+
+.acctOffline {
+	background-color: #d3d9d6;
+	-webkit-box-shadow: 4px 4px 0px 0px rgba(179, 183, 180, 0.8);
+	-moz-box-shadow: 4px 4px 0px 0px rgba(179, 183, 180, 0.8);
+	box-shadow: 4px 4px 0px 0px rgba(179, 183, 180, 0.8);
+}
+
+.acctError {
+	background-color: #ee7c7c;
+	-webkit-box-shadow: 4px 4px 0px 0px rgba(199, 101, 101, 0.8);
+	-moz-box-shadow: 4px 4px 0px 0px rgba(199, 101, 101, 0.8);
+	box-shadow: 4px 4px 0px 0px rgba(199, 101, 101, 0.8);
+}
